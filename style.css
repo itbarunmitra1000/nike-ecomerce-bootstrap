@@ -16,7 +16,7 @@
 }
 
 .all_button{
-    padding: 10px 25px;
+    padding: 8px 15px;
     background-color: #3948D4;
     color: white;
     border: none;
@@ -27,4 +27,13 @@
 
 .all_button:hover{
     background-color: black;
+}
+.shoe_bg_color{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    
+}
+
+.price_color{
+    color: #FA804C;
 }
